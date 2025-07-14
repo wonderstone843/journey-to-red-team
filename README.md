@@ -70,4 +70,4 @@ I believe AI security is one of the most important frontiers of our time. Models
 To join a red team or AI safety role where I can ethically test systems, detect risks, and make AI safer for everyone.
 
 **Let’s connect:**
-Reach out if you’re hiring, collaborating, or just want to nerd out about adversarial ML or future AI threats.
+Reach out if you’re hiring, collaborating, or just want to talk about adversarial ML or future AI threats.
