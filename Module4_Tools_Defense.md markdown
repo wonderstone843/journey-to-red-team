@@ -1,0 +1,22 @@
+# 🧰 Module 4 Notes: Tools & Defensive Techniques
+
+## 🔍 What I Learned
+
+- **TextAttack:** A tool for testing language models against adversarial prompts.
+- **IBM ART:** Robust library for attacking and defending models across image, text, and tabular data.
+- **Microsoft Counterfit:** Simulates black-box attacks on AI systems to test real-world vulnerabilities.
+- **Monitoring Techniques:** Rate limiting, audit logging, anomaly detection, and content filtering.
+
+## 🧠 Reflections
+
+- Using these tools made threats feel *real* — it’s one thing to read about them, another to watch a model get fooled.
+- Simulation is powerful. I saw how even small tweaks to input could flip an AI’s response.
+- Good defense isn’t just blocking — it’s about adapting faster than the threat.
+
+## 🚀 Takeaway
+
+> “Tools sharpen instincts. Simulation builds muscle.”
+
+Hands-on work with these tools gave me real insight into how red teamers test, and how defenders stay a step ahead.
+
+
