@@ -1,0 +1,90 @@
+# 🎯 Microsoft SC-900 Security, Compliance, and Identity — Self-Taught Red Team Training
+
+## 🧠 Overview
+This repo documents my journey through the full **Microsoft SC-900** learning path — focused on **Security, Compliance, and Identity (SCI)** — using **free resources only**, without paying for formal certification. Instead of stopping at theory, I applied what I learned through **real-world red team projects and adversarial AI prompt testing**.
+
+> 🚫 No tuition.  
+> 🔐 No guessing.  
+> ✅ Just skill.
+
+---
+
+## ✅ Completed Learning Paths
+
+| Learning Path | Status | Completion Date |
+|---------------|--------|-----------------|
+| MS-900: Introduction to Microsoft 365 Security & Compliance | ✅ | July 25, 2025 |
+| Microsoft Entra ID & Identity Concepts | ✅ | July 23, 2025 |
+| Microsoft Security, Compliance, and Identity Concepts | ✅ | July 21, 2025 |
+| Microsoft Priva & Microsoft Purview | ✅ | July 25, 2025 |
+
+---
+
+## 🔍 Red Team Focus Areas
+
+Each topic below includes mindset notes and red team application examples (see `/cheatsheets` folder):
+
+### 🔐 Microsoft 365 Security
+- Role-Based Access Control (RBAC)
+- Zero Trust principles
+- Multi-factor authentication bypass simulations
+
+### 📜 Microsoft Compliance (Purview)
+- Information Protection policies
+- Data Loss Prevention (DLP) triggers
+- eDiscovery workflow red flags
+
+### 🔎 Microsoft Priva
+- Tracker scanning and risk minimization
+- Data overexposure detection logic
+- Consent management failure scenarios
+
+### 🆔 Microsoft Entra
+- Identity and access vulnerabilities
+- Misconfigured conditional access
+- Directory syncing edge cases
+
+---
+
+## 🧪 Practice Projects
+
+| Project | Description |
+|--------|-------------|
+| `ai_red_team_prompts/` | Exploitable prompts designed to test system safety around privacy, identity, and data leakage |
+| `defender_simulations/` | Simulated compliance alerts from spoofed insider threats and DLP policy violations |
+| `cheatsheets/` | Red Team Mindset summaries for each SC-900 module with examples and attacker logic breakdowns |
+
+---
+
+## 🧰 Tools & Stack
+
+- ChatGPT + Python (adversarial testing)
+- Microsoft Learn (training modules)
+- GitHub for tracking progression
+- Visual Studio Code for testing edge cases
+
+---
+
+## 📌 Why I Didn't Pay for Certification
+
+While the SC-900 exam costs **$99**, I chose instead to:
+- **Demonstrate real understanding** through public proof of learning
+- Focus on **red team relevance**, not just passing a multiple choice test
+- Show that **self-directed AI-assisted education** is the future of training
+
+---
+
+## 🔗 Connect
+
+Want to learn more or build projects together?
+
+- 🧠 [LinkedIn](https://https://www.linkedin.com/in/joshua-penn-019418154/)  
+- 📂 [Other GitHub Projects](https://github.com/wonderstone843)
+
+---
+
+## 🏁 Summary
+
+> This repo is proof that **you don't need a classroom or student loans** to master Microsoft Security principles.  
+> The future of cybersecurity training is **free**, **hands-on**, and **driven by mindset, not just memorization**.
+
