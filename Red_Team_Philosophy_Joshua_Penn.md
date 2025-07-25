@@ -2,7 +2,7 @@
 # 🧠 Red Team Philosophy: Joshua Penn
 
 ## 🎯 Mission
-To protect systems, users, and society by thinking like the adversary — exposing hidden assumptions, untested trust boundaries, and misaligned incentives before real attackers do.
+To protect systems, users, and society by thinking like the adversary — exposing hidden assumptions, untested trust boundaries, and misaligned incentives before real attackers do. The microsoft SC-900 training course is what has me thinking in this area its a gold mine of insight.
 
 ---
 
@@ -54,7 +54,7 @@ This creates **incentive mismatch** — the model is trained to engage, not defe
 - “That behavior is unlikely.”
 - “That’s out of scope.”
 
-These phrases have no place in red team thinking.  
+These phrases really place in red team thinking in my eyes.  
 We simulate the edge case, the unethical actor, the absurd prompt — because **attackers already do.**
 
 ---
@@ -69,7 +69,7 @@ We simulate the edge case, the unethical actor, the absurd prompt — because **
 ---
 
 ## 🧩 Why It Matters
-AI systems will shape global infrastructure — they must be safe, not just functional.
+AI systems will shape global infrastructure — they must be safe, not just functional. With our countrys investments into AI in hopes we will be the world leader means we have to think this way about this world changing creation.
 
 If safety is treated as an add-on, attackers will treat it as an invitation.
 
